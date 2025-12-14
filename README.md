@@ -232,6 +232,8 @@ Get all analyzed reviews.
 
 ## 👥 Authors
 
-Nama : *Nadia Anatashiva*
-NIM  : *123140060*
+Nama : *Nadia Anatashiva*  
+
+NIM  : *123140060*  
+
 Mata Kuliah : *Pengembangan Aplikasi Web - RB*
